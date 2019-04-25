@@ -1,6 +1,7 @@
 <template>
 	<div class="container-fluid bg-image">
 		<div class="container">
+			<h1>git trail</h1>
 			<div class="col-md-12 text-center logo-image">
 				<img src="../assets/logo.svg" class="mt-5">
 			</div>
